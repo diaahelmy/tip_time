@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tip time</string>
+    <dimen name="min_text_height">48dp</dimen>
+    <string name="tip_amount">Tip Amount: %s</string>
+</resources>
